@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.set_page_config(page_title="My Webpage", page_icon='tada', layout='wide')
+st.set_page_config(page_title="Find Out If You're The Dragon Slayer", page_icon='tada', layout='wide')
 
-st.header("Are you the xXDRAGONSLAYERXx?")
+st.header("Are you the DRAGONSLAYER?")
 st.subheader("Enter your name to find out if you are the one true Dragon Slayer")
 name = st.text_input("What is your name?").lower()
 
