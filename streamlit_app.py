@@ -8,11 +8,11 @@ name = st.text_input("What is your name?")
 
 def dragon(name):
     if name == "Jake":
-        st.write("You are the DRAGONSLAYER")
+        st.header("Congrats, You are the DRAGONSLAYER")
     elif name == "jake":
-        st.write("You are the DRAGONSLAYER")
+        st.header("Congrats, You are the DRAGONSLAYER")
     else:
-        st.write("You are not the dragonslayer.")
+        st.header("You are not the dragonslayer.")
 
 if name:
     answer = dragon(name)
