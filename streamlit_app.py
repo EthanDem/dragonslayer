@@ -15,6 +15,14 @@ def dragon(name):
         st.header("Congrats, You are the 🐲⚔️ DRAGONSLAYER ⚔️🐲")
     elif name == "jake golden":
         st.header("Congrats, You are the 🐲⚔️ DRAGONSLAYER ⚔️🐲")
+    elif name == "Jake ":
+            st.header("Congrats, You are the 🐲⚔️ DRAGONSLAYER ⚔️🐲")
+    elif name == "jake ":
+            st.header("Congrats, You are the 🐲⚔️ DRAGONSLAYER ⚔️🐲")
+    elif name == "Jake Golden ":
+            st.header("Congrats, You are the 🐲⚔️ DRAGONSLAYER ⚔️🐲")
+    elif name == "jake golden ":
+            st.header("Congrats, You are the 🐲⚔️ DRAGONSLAYER ⚔️🐲")
     else:
         st.header(name + " , you are not the dragonslayer.")
 
